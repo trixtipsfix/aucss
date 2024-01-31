@@ -15,10 +15,12 @@ import women from "app/assets/clubs/women-club.png";
 import kashif from "app/assets/execs/Kashif-modified.png";
 import saif from "app/assets/execs/saif.png";
 import maila from "app/assets/execs/maila.png";
-import fiza from "app/assets/execs/fiza-modified.png";
-import akmal from "app/assets/execs/akmal-modified.jpeg";
-import maira from "app/assets/execs/maira-modified.jpeg";
-import hamza from "app/assets/execs/hamza-modified.jpeg";
+import abdullah from "app/assets/execs/abdullah.jpg";
+import husnain from "app/assets/execs/hussnain.jpg";
+import hamzah from "app/assets/execs/hamzah.jpg";
+import basma from "app/assets/execs/basma.jpg";
+import haram from "app/assets/execs/haram.jpg";
+import rafay from "app/assets/execs/rafay.jpg";
 import isqtc from "app/assets/cluster/isqtc.png";
 import uetp from "app/assets/cluster/uetp.png";
 import cg from "app/assets/cluster/cg.png";
@@ -78,10 +80,12 @@ export {
   aucsc,
   saif,
   maila,
-  fiza,
-  akmal,
-  maira,
-  hamza,
+  husnain,
+  hamzah,
+  abdullah,
+  basma,
+  haram,
+  rafay,
   isqtc,
   uetp,
   cg,

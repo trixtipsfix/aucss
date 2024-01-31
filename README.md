@@ -1,4 +1,4 @@
-AUCSS official site built with Next JS and deployed on Vercel. https://aucss.live
+AUCSS official site built with Next JS and deployed on Vercel. <Link will be here>
 
 ## Made With
 <div align="center">

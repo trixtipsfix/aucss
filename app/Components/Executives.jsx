@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
-import { akmal, fiza, hamza, maira, saif, maila } from '../assets';
+import { haram, husnain, hamzah, basma, saif, maila, abdullah, rafay } from '../assets';
 
 const Executives = () => {
     const people = [
@@ -17,28 +17,40 @@ const Executives = () => {
         linkedinUrl: "#",
       },
       {
-        name: "Fiza Jaleel",
+        name: "Abdullah Tufail",
+        role: "Ambassador",
+        imageUrl: abdullah,
+        linkedinUrl: "#",
+      },
+      {
+        name: "Husnain Tahir",
         role: "General Secretary",
-        imageUrl: fiza,
-        linkedinUrl: "https://www.linkedin.com/in/fiza-jaleel-261b3a238/",
-      },
-      {
-        name: "Muhammad Akmal",
-        role: "Joint Secretary 1",
-        imageUrl: akmal,
-        linkedinUrl: "https://www.linkedin.com/in/muhammad-akmal-awan/",
-      },
-      {
-        name: "Maira Saleem",
-        role: "Joint Secretary 2",
-        imageUrl: maira,
-        linkedinUrl: "https://www.linkedin.com/in/maira-saleem-234892243/",
+        imageUrl: husnain,
+        linkedinUrl: "#",
       },
       {
         name: "Hamza Haroon",
+        role: "Technical Secretary",
+        imageUrl: hamzah,
+        linkedinUrl: "#",
+      },
+      {
+        name: "Basma Dar",
+        role: "Joint Secretary 1",
+        imageUrl: basma,
+        linkedinUrl: "#",
+      },
+      {
+        name: "Haram Ejaz",
+        role: "Joint Secretary 2",
+        imageUrl: haram,
+        linkedinUrl: "#",
+      },
+      {
+        name: "Muhammad Rafay",
         role: "Joint Secretary 3",
-        imageUrl: hamza,
-        linkedinUrl: "https://www.linkedin.com/in/hamzaharooon/",
+        imageUrl: rafay,
+        linkedinUrl: "#",
       },
     ];
   return (
