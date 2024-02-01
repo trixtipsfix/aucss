@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
-import { haram, husnain, hamzah, basma, saif, maila, abdullah, rafay } from '../assets';
+import { haram, husnain, hamzah, basma, saif, maila, abdullah, rafay, ahmadali} from '../assets';
 
 const Executives = () => {
     const people = [
@@ -35,20 +35,26 @@ const Executives = () => {
         linkedinUrl: "#",
       },
       {
-        name: "Basma Dar",
+        name: "Ahmad Ali Qureshi",
         role: "Joint Secretary 1",
+        imageUrl: ahmadali,
+        linkedinUrl: "#",
+      },
+      {
+        name: "Basma Dar",
+        role: "Joint Secretary 2",
         imageUrl: basma,
         linkedinUrl: "#",
       },
       {
         name: "Haram Ejaz",
-        role: "Joint Secretary 2",
+        role: "Joint Secretary 3",
         imageUrl: haram,
         linkedinUrl: "#",
       },
       {
         name: "Muhammad Rafay",
-        role: "Joint Secretary 3",
+        role: "Joint Secretary 4",
         imageUrl: rafay,
         linkedinUrl: "#",
       },
