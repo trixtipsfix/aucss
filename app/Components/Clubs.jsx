@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
-import { developers, creative, red_teaming, ctf_team, blue_teaming, awarenessclub, sportsMale, socialmedia, sportsFemale, women, photography, aucsc  } from '../assets';
+import { developers, creative, public_relations, protocol, red_teaming, ctf_team, blue_teaming, awarenessclub, sportsMale, socialmedia, sportsFemale, women, photography, aucsc  } from '../assets';
 
 const clubs = [
   {
@@ -28,10 +28,22 @@ const clubs = [
     imageUrl: ctf_team,
   },
   {
+    name: "Awareness Club",
+    leadName: "Lead: Abdullah Farooq",
+    coLeadName: "Co-Lead: Maymoona Naeem",
+    imageUrl: awarenessclub,
+  },
+  {
     name: "AU Cyber Skills Club",
     leadName: "Lead: Seemab Tariq",
     coLeadName: "Co-Lead: Kinza Malik",
     imageUrl: aucsc,
+  },
+  {
+    name: "PR and Advertising",
+    leadName: "Head: Hassan Imam",
+    coLeadName: "Deputy Head: Zain Rashid",
+    imageUrl: public_relations,
   },
   {
     name: "Research Club",
@@ -41,33 +53,38 @@ const clubs = [
   },
   {
     name: "Social Media Club",
-    leadName: "Leads: Basma Khalid",
+    leadName: "Leads: Farhan Hassan",
+    coLeadName: "Co-Lead: Amna Naeem",
     imageUrl: socialmedia,
   },
   {
-    name: "Photography Club",
-    leadName: "Lead: Ahmed Mehmood",
+    name: "Security and Protocol",
+    leadName: "Leads: Ameer Hamza",
+    coLeadName: "Co-Lead: Riaz Ahmad",
+    imageUrl: protocol,
+  },
+  {
+    name: "Media Coverage",
+    leadName: "Lead: Saif Ur Rehman",
+    coLeadName: "Co-Lead: Zohaib Ahmad",
     imageUrl: photography,
   },
   {
     name: "Women's Club",
-    leadName: "Lead: Misha Sohail",
+    leadName: "Lead: Syeda Areeba Fatima",
+    coLeadName: "Co-Lead: Zuha Fatima",
     imageUrl: women,
   },
   {
     name: "Sports Club (Female)",
-    leadName: "Lead: Eman Malik",
+    leadName: "Lead: Omama Babar",
+    coLeadName: "Co-Lead: Muhammad Ammar",
     imageUrl: sportsFemale,
   },
   {
-    name: "Awareness Club",
-    leadName: "Lead: Abdullah Farooq",
-    coLeadName: "Co-Lead: Maymoona Naeem",
-    imageUrl: awarenessclub,
-  },
-  {
     name: "Sports Club (Male)",
-    leadName: "Lead: Jawad Aftab",
+    leadName: "Lead: Huzaifa Zaman",
+    coLeadName: "Co-Lead: Muhammad Ammar",
     imageUrl: sportsMale,
   },
 ];
