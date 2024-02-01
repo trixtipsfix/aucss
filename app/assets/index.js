@@ -5,7 +5,7 @@ import hero from '@/app/assets/hero-img.gif'
 import about from '@/app/assets/about-us.jpeg'
 import developers from '@/app/assets/clubs/developers-club.png'
 import creative from "@/app/assets/clubs/creative-club.png";
-import awareness from "@/app/assets/clubs/awareness-club.png";
+import awareness from "@/app/assets/clubs/awareness.jpg";
 import sportsMale from "@/app/assets/clubs/sports-club(male).png";
 import socialmedia from "@/app/assets/clubs/socialmedia-club.png";
 import photography from "@/app/assets/clubs/photography-club.png";
@@ -36,7 +36,7 @@ import abdulwali from "app/assets/cluster/abdulwali.png";
 import ist from "app/assets/cluster/ist.png";
 import security from "app/assets/teams/security-team.png";
 import management from "app/assets/teams/management-team.png";
-import technical from "app/assets/teams/technical-team.png";
+import technical from "app/assets/teams/technical.jpg";
 import media from "app/assets/teams/media-team.png";
 import humanFactors from "app/assets/events/human-conference.jpeg";
 import iccws from "app/assets/events/iccws2022.jpg";

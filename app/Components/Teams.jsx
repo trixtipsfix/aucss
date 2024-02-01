@@ -5,7 +5,7 @@ import { management, security, technical, media } from '../assets';
 const teams = [
   {
     name: "Technical Team",
-    role: "Lead: Abdullah Zamir",
+    role: "Leads and Co-Leads",
     imageUrl: technical,
   },
   {
