@@ -3,6 +3,7 @@ import au from '@/app/assets/logos/AU-Logo.png';
 import cys from '@/app/assets/logos/CYS-Logo.png';
 import hero from '@/app/assets/hero-img.gif'
 import about from '@/app/assets/about-us.jpeg'
+import awarenessclub from "@/app/assets/teams/awareness-club.png";
 import developers from '@/app/assets/clubs/developers-club.png'
 import creative from "@/app/assets/clubs/creative-club.png";
 import sportsMale from "@/app/assets/clubs/sports-club(male).png";
@@ -74,6 +75,7 @@ export {
   developers,
   creative,
   awareness,
+  awarenessclub,
   sportsMale,
   socialmedia,
   photography,

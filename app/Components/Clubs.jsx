@@ -1,23 +1,42 @@
 import React from 'react'
 import Image from 'next/image';
-import { developers, creative, awareness, sportsMale, socialmedia, sportsFemale, women, photography, aucsc  } from '../assets';
+import { developers, creative, awareness, awarenessclub, sportsMale, socialmedia, sportsFemale, women, photography, aucsc  } from '../assets';
 
 const clubs = [
   {
-    name: "Developers Club",
-    leadName: "Lead: Muhammad Zain Ul Abideen",
-    coLeadName: "Co-Lead: Aeraf Ali",
+    name: "Coding Club",
+    leadName: "Lead: Mirza Areeb Baig",
+    coLeadName: "Co-Lead: Mubahil Ahmad",
     imageUrl: developers,
   },
   {
-    name: "AU Cyber Skills Club",
-    leadName: "Lead: Saif ur Rehman Abbasi",
-    coLeadName: "Co-Lead: Abdullah Tufail",
+    name: "Red Teaming",
+    leadName: "Lead: Hamza Khattak",
+    coLeadName: "Co-Lead: Farhan Ahmad",
     imageUrl: aucsc,
   },
   {
-    name: "Creative Club",
-    leadName: "Lead: Shamaim Zehra",
+    name: "Blue Teaming",
+    leadName: "Lead: Furqan Ahmad",
+    coLeadName: "Co-Lead: Arsham Munawar Gill",
+    imageUrl: aucsc,
+  },
+  {
+    name: "CTF Club",
+    leadName: "Lead: Faizan Arshad",
+    coLeadName: "Co-Lead: Syed Anas",
+    imageUrl: aucsc,
+  },
+  {
+    name: "AU Cyber Skills Club",
+    leadName: "Lead: Seemab Tariq",
+    coLeadName: "Co-Lead: Kinza Malik",
+    imageUrl: aucsc,
+  },
+  {
+    name: "Research Club",
+    leadName: "Lead: Bilal Saleem",
+    coLeadName: "Co-Lead: Alishba Rehman",
     imageUrl: creative,
   },
   {
@@ -42,8 +61,9 @@ const clubs = [
   },
   {
     name: "Awareness Club",
-    leadName: "Lead: Muhammad Hamza",
-    imageUrl: awareness,
+    leadName: "Lead: Abdullah Farooq",
+    coLeadName: "Co-Lead: Maymoona Naeem",
+    imageUrl: awarenessclub,
   },
   {
     name: "Sports Club (Male)",
