@@ -17,9 +17,9 @@ const Executives = () => {
         linkedinUrl: "#",
       },
       {
-        name: "Abdullah Tufail",
-        role: "Ambassador",
-        imageUrl: abdullah,
+        name: "Hamza Haroon",
+        role: "Technical Secretary",
+        imageUrl: hamzah,
         linkedinUrl: "#",
       },
       {
@@ -29,9 +29,9 @@ const Executives = () => {
         linkedinUrl: "#",
       },
       {
-        name: "Hamza Haroon",
-        role: "Technical Secretary",
-        imageUrl: hamzah,
+        name: "Abdullah Tufail",
+        role: "Ambassador",
+        imageUrl: abdullah,
         linkedinUrl: "#",
       },
       {
