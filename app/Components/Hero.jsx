@@ -44,7 +44,7 @@ const Hero = () => {
         <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:gap-x-10 lg:px-16 lg:py-40">
           <div className="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
             <span className="px-3 py-1 text-sm font-semibold leading-6 text-[#195294] rounded-full bg-[#6dd5ed]/10 ring-1 ring-inset ring-[#195294]/20">
-              2022-2023 Session
+              2023-2024 Session
             </span>
             <h1 className="mt-10 pb-6 max-w-lg text-4xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-[#195294] to-[#6dd5ed] sm:text-6xl">
               Air University Cyber Security Society

@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
-import { developers, creative, awareness, awarenessclub, sportsMale, socialmedia, sportsFemale, women, photography, aucsc  } from '../assets';
+import { developers, creative, red_teaming, awareness, awarenessclub, sportsMale, socialmedia, sportsFemale, women, photography, aucsc  } from '../assets';
 
 const clubs = [
   {
@@ -13,7 +13,7 @@ const clubs = [
     name: "Red Teaming",
     leadName: "Lead: Hamza Khattak",
     coLeadName: "Co-Lead: Farhan Ahmad",
-    imageUrl: aucsc,
+    imageUrl: red_teaming,
   },
   {
     name: "Blue Teaming",
