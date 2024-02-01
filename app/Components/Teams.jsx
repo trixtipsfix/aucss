@@ -25,7 +25,7 @@ const teams = [
   },
   {
     name: "Security Team",
-    role: "Lead: Saim Arshad",
+    role: "Leads and Co-Leads",
     imageUrl: security,
   },
 ];

@@ -33,7 +33,7 @@ import csc from "app/assets/cluster/csc.png";
 import cyberquest from "app/assets/cluster/cyberquest.png";
 import abdulwali from "app/assets/cluster/abdulwali.png";
 import ist from "app/assets/cluster/ist.png";
-import security from "app/assets/teams/security-team.png";
+import security from "app/assets/teams/security.jpg";
 import management from "app/assets/teams/management.jpg";
 import technical from "app/assets/teams/technical.jpg";
 import awareness from "@/app/assets/teams/awareness.jpg";
