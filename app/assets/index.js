@@ -9,7 +9,7 @@ import blue_teaming from "@/app/assets/clubs/blue_teaming.png";
 import ctf_team from "@/app/assets/clubs/ctf_team.png";
 import developers from '@/app/assets/clubs/developers-club.png'
 import creative from "@/app/assets/clubs/creative-club.png";
-import protocol from "app/assets/clubs/security-team.jpg";
+import protocol from "app/assets/clubs/security-team.png";
 import public_relations from '@/app/assets/clubs/public_relations.png'
 import sportsMale from "@/app/assets/clubs/sports-club(male).png";
 import socialmedia from "@/app/assets/clubs/socialmedia-club.png";
