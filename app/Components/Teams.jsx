@@ -38,7 +38,7 @@ const Teams = () => {
             Our Teams
           </h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            AUCSS consists of 4 teams, each of which is led by a team
+            AUCSS consists of 5 teams, each of which is led by a team
             lead and each team has clubs under it.
           </p>
         </div>
