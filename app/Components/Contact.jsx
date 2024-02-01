@@ -70,9 +70,9 @@ const Contact = () => {
                 <dd>
                   <a
                     className="hover:text-gray-900"
-                    href="tel:+1 (555) 234-5678"
+                    href="tel:+92 315 5762895"
                   >
-                    +92 315 6082653
+                    +92 315 5762895
                   </a>
                 </dd>
               </div>
