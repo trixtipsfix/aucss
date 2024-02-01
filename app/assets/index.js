@@ -5,6 +5,8 @@ import hero from '@/app/assets/hero-img.gif'
 import about from '@/app/assets/about-us.jpeg'
 import awarenessclub from "@/app/assets/clubs/awareness-club.png";
 import red_teaming from "@/app/assets/clubs/red_teaming.png";
+import blue_teaming from "@/app/assets/clubs/blue_teaming.png";
+import ctf_team from "@/app/assets/clubs/ctf_team.png";
 import developers from '@/app/assets/clubs/developers-club.png'
 import creative from "@/app/assets/clubs/creative-club.png";
 import sportsMale from "@/app/assets/clubs/sports-club(male).png";
@@ -77,6 +79,8 @@ export {
   creative,
   awareness,
   red_teaming,
+  blue_teaming,
+  ctf_team,
   awarenessclub,
   sportsMale,
   socialmedia,
