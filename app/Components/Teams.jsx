@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { management, security, technical, media } from '../assets';
+import { management, security, technical, media, awareness, graphics} from '../assets';
 
 const teams = [
   {
@@ -9,14 +9,19 @@ const teams = [
     imageUrl: technical,
   },
   {
+    name: "Awareness & CSC Team",
+    role: "Leads and Co-Leads",
+    imageUrl: awareness,
+  },
+  {
     name: "Management Team",
-    role: "Lead: Mansoor Mirza",
+    role: "Leads and Co-Leads",
     imageUrl: management,
   },
   {
-    name: "Media Team",
-    role: "Lead: Abdullah Imran",
-    imageUrl: media,
+    name: "Graphics Team",
+    role: "Leads and Co-Leads",
+    imageUrl: graphics,
   },
   {
     name: "Security Team",
