@@ -11,6 +11,7 @@ import Teams from './Components/Teams';
 import Events from './Components/Events';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
+import Advisors from './Components/advisors';
 
 
 export default function Home() {
@@ -21,6 +22,7 @@ export default function Home() {
       <About />
       <Vision />
       <History />
+      <Advisors />
       <Executives />
       <Teams />
       <Clubs />

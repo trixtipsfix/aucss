@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 import Image from 'next/image';
-import { au, aucss, cys, kashif } from '../assets';
+import { au, aucss, cys, kashif, khawaja } from '../assets';
 
 const History = () => {
   return (
@@ -26,7 +26,7 @@ const History = () => {
             Our History
           </h1>
           <p className="mt-6 text-xl leading-8 text-gray-700">
-            {`AUCSS came into being in February 2020 as the Pakistan's first ever cyber security society at the academic level. This great initiative was took by Dr. Kashif Kifayat, Dean Faculty of Computing & Artificial Intelligence, Air University.`}
+            {`AUCSS came into being in February 2020 as Pakistan's first-ever cybersecurity society at the academic level. This great initiative was taken by Dr. Kashif Kifayat, Dean Faculty of Computing & Artificial Intelligence, Air University.`}
           </p>
         </div>
         <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:mt-10 lg:max-w-none lg:grid-cols-12">
@@ -65,7 +65,24 @@ const History = () => {
                   Dr. Kashif Kifayat
                 </h3>
                 <p className="text-sm leading-6 text-gray-700">
-                  Founder AUCSS & Director NCCS
+                  Founder AUCSS & Patron in Chief
+                </p>
+              </div>
+            </figure>
+            <figure className="border-l border-[#195294] pl-8 mt-16">
+              <div className="rounded-2xl bg-trans px-8 py-10 text-center">
+                <Image
+                  className="mx-auto h-60 w-60 md:h-60 md:w-50 rounded-full object-cover"
+                  src={khawaja}
+                  alt=""
+                  width={500}
+                  height={500}
+                />
+                <h3 className="mt-6 text-lg font-semibold leading-7 tracking-tight text-gray-800">
+                  Sir Khawaja Mansoor
+                </h3>
+                <p className="text-sm leading-6 text-gray-700">
+                  Deputy Advisior
                 </p>
               </div>
             </figure>
@@ -73,8 +90,7 @@ const History = () => {
           <div className="max-w-xl text-base leading-7 text-gray-700 lg:col-span-7">
             <p>
               Since then, the AUCSS has been working under a diligent leadership
-              of professional mentors to achieve its vision to be a cyber
-              security leader.
+              of professional mentors to achieve its vision to be a cybersecurity leader.
             </p>
             <ul role="list" className="mt-8 max-w-xl space-y-8 text-gray-600">
               <li className="flex gap-x-4">
@@ -87,14 +103,14 @@ const History = () => {
                 />
                 <Image
                   src={cys}
-                  alt="cyber security department"
+                  alt="cybersecurity department"
                   width={100}
                   height={100}
                   priority
                 />
                 <Image
                   src={aucss}
-                  alt="air university cyber security society"
+                  alt="air university cybersecurity society"
                   width={100}
                   height={100}
                   priority
@@ -102,13 +118,13 @@ const History = () => {
               </li>
             </ul>
             <p className="mt-8">
-              {`Since it's formation, AUCSS has proved to be a remarkable achievement at the educational level. It is playing a vital role in bridging the gap between the professional industry and the academia by organizing events such as seminars, guest talks, workshops, conferences and much more.`}
+              {`Since its formation, AUCSS has proved to be a remarkable achievement at the educational level. It is playing a vital role in bridging the gap between the professional industry and academia by organizing events such as seminars, guest talks, workshops, conferences, and much more.`}
             </p>
           </div>
         </div>
       </div>
     </section>
   );
-}
+};
 
 export default History

@@ -67,7 +67,10 @@ import introductory from "app/assets/events/introductory-event.jpeg";
 import cyberstorm2 from "app/assets/events/cyberstorm-2-event.jpeg";
 import cispa from "app/assets/events/cispa-2023.jpeg";
 import welcome from "app/assets/events/welcome-event.jpeg";
-
+import khawaja from "app/assets/execs/sir_khawaja.jpg";
+import umair from "app/assets/execs/umair-modified.png";
+import qamar from "app/assets/execs/qamar-modified.png";
+import fiza from "app/assets/execs/fiza-modified.png";
 
 
 export {
@@ -139,5 +142,9 @@ export {
   introductory,
   cyberstorm2,
   cispa,
-  welcome
+  welcome,
+  khawaja,
+  umair,
+  qamar,
+  fiza
 };
