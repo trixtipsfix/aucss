@@ -67,8 +67,8 @@ const Executives = () => {
             Meet our executive team
           </h2>
           <p className="mt-6 text-lg leading-8 text-gray-400">
-            AUCSS is headed by the President, co-headed by the Vice President
-            and managed by the General Secretery.
+            AUCSS is headed by the President, co-headed by the Vice President, 
+            Technical Secretary and General Secretary
           </p>
         </div>
         <ul

@@ -24,7 +24,7 @@ import saif from "app/assets/execs/saif.png";
 import maila from "app/assets/execs/maila.png";
 import abdullah from "app/assets/execs/abdullah.jpg";
 import husnain from "app/assets/execs/hussnain.jpg";
-import hamzah from "app/assets/execs/hamzah.jpg";
+import hamzah from "app/assets/execs/hamza.jpg";
 import ahmadali from "app/assets/execs/ahmad-ali.jpg";
 import basma from "app/assets/execs/basma.jpg";
 import haram from "app/assets/execs/haram.jpg";
