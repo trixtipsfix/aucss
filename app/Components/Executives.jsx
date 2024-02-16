@@ -8,7 +8,7 @@ const Executives = () => {
         name: "Saif ur Rehman",
         role: "President",
         imageUrl: saif,
-        linkedinUrl: "#",
+        linkedinUrl: "https://www.linkedin.com/in/saif-ur-rehman-abbasi-0047b3296/",
       },
       {
         name: "Maila Zahra",
@@ -20,25 +20,25 @@ const Executives = () => {
         name: "Hamza Haroon",
         role: "Technical Secretary",
         imageUrl: hamzah,
-        linkedinUrl: "#",
+        linkedinUrl: "https://www.linkedin.com/in/hamzaharooon/",
       },
       {
         name: "Husnain Tahir",
         role: "General Secretary",
         imageUrl: husnain,
-        linkedinUrl: "#",
+        linkedinUrl: "https://www.linkedin.com/in/husnain-tahir-551921225/",
       },
       {
         name: "Abdullah Tufail",
         role: "Ambassador",
         imageUrl: abdullah,
-        linkedinUrl: "#",
+        linkedinUrl: "https://www.linkedin.com/in/abdula2fal/",
       },
       {
         name: "Ahmad Ali Qureshi",
         role: "Joint Secretary 1",
         imageUrl: ahmadali,
-        linkedinUrl: "#",
+        linkedinUrl: "https://www.linkedin.com/in/muhammad-ahmad-ali-qureshi-60692a233/",
       },
       {
         name: "Basma Dar",
@@ -50,7 +50,7 @@ const Executives = () => {
         name: "Haram Ejaz",
         role: "Joint Secretary 3",
         imageUrl: haram,
-        linkedinUrl: "#",
+        linkedinUrl: "https://www.linkedin.com/in/haram-ejaz-b2358a250/",
       },
       {
         name: "Muhammad Rafay",

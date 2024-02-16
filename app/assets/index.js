@@ -1,6 +1,8 @@
 import aucss from '@/app/assets/logos/AUCSS-Logo.png';
 import au from '@/app/assets/logos/AU-Logo.png';
 import cys from '@/app/assets/logos/CYS-Logo.png';
+import recypherlogo from '@/app/assets/logos/recypher.png';
+import erasmus from '@/app/assets/logos/erasmus.jpg';
 import hero from '@/app/assets/hero-img.gif'
 import about from '@/app/assets/about-us.jpeg'
 import awarenessclub from "@/app/assets/clubs/awareness-club.png";
@@ -77,6 +79,8 @@ export {
   aucss,
   au,
   cys,
+  recypherlogo,
+  erasmus,
   kashif,
   hero,
   about,

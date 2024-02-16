@@ -6,21 +6,21 @@ const Advisors = () => {
     const people = [
       {
         name: "Umair Sabir",
-        role: "Advisor",
+        role: "Student Advisor",
         imageUrl: umair,
-        linkedinUrl: "#",
+        linkedinUrl: "https://www.linkedin.com/in/mikivirus/",
       },
       {
         name: "Fiza Jaleel",
-        role: "Advisor",
+        role: "Student Advisor",
         imageUrl: fiza,
-        linkedinUrl: "#",
+        linkedinUrl: "https://www.linkedin.com/in/fiza-jaleel-261b3a238/",
       },
       {
         name: "Qamar Majeed",
-        role: "Advisor",
+        role: "Student Advisor",
         imageUrl: qamar,
-        linkedinUrl: "#",
+        linkedinUrl: "https://www.linkedin.com/in/qamarmajeed/",
       },
     ];
   return (

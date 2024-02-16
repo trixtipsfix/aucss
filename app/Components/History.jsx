@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import { au, aucss, cys, kashif, khawaja } from '../assets';
+import { au, recypherlogo,erasmus, cys, kashif, khawaja } from '../assets';
 
 const History = () => {
   return (
@@ -82,7 +82,7 @@ const History = () => {
                   Sir Khawaja Mansoor
                 </h3>
                 <p className="text-sm leading-6 text-gray-700">
-                  Deputy Advisior
+                  Faculty Advisor
                 </p>
               </div>
             </figure>
@@ -109,16 +109,26 @@ const History = () => {
                   priority
                 />
                 <Image
-                  src={aucss}
-                  alt="air university cybersecurity society"
-                  width={100}
+                  src={recypherlogo}
+                  alt="Recypher"
+                  width={140}
                   height={100}
+                  priority
+                />
+                <Image
+                  src={erasmus}
+                  alt="Erasmus"
+                  width={200}
+                  height={35}
                   priority
                 />
               </li>
             </ul>
             <p className="mt-8">
               {`Since its formation, AUCSS has proved to be a remarkable achievement at the educational level. It is playing a vital role in bridging the gap between the professional industry and academia by organizing events such as seminars, guest talks, workshops, conferences, and much more.`}
+            </p>
+            <p className="mt-8">
+              {`AUCSS has also partnered with NCCS in an international project, i.e. Erasmus+ Recypher project. The society has been regularly contributing in the organization of cyber security events such as ICHFCS 2022 conference, PCC 2022/2023, and multiple Awaress Trainings on Cyber Security. These events are co-funded by Erasmus+ CBHE programme.`}
             </p>
           </div>
         </div>
