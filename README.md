@@ -10,6 +10,8 @@ AUCSS official site built with Next JS and deployed on Vercel. <Link will be her
   
 </div>
 
+## Contributors ✨
+
 <table>
   <tbody>
     <tr>
