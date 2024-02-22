@@ -13,8 +13,8 @@ AUCSS official site built with Next JS and deployed on Vercel. <Link will be her
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://whoamirza.vercel.app/"><img src="https://avatars.githubusercontent.com/u/69011613?s=100" width="100px;" alt="Mirza Areeb Baig"/><br /><sub><b>Mirza Areeb Baig</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DenialArcus"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt="DenialArcus"/><br /><sub><b>DenialArcus</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://whoamirza.vercel.app/"><img src="https://avatars.githubusercontent.com/u/69011613?s=100" width="100px;" alt="Mirza Areeb Baig"/><br /><sub><b>whoamirza</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DenialArcus"><img src="https://avatars.githubusercontent.com/u/147534344?s=100" width="100px;" alt="DenialArcus"/><br /><sub><b>Arcus</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
