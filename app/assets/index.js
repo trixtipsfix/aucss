@@ -73,6 +73,8 @@ import khawaja from "app/assets/execs/sir_khawaja.jpg";
 import umair from "app/assets/execs/umair-modified.png";
 import qamar from "app/assets/execs/qamar-modified.png";
 import fiza from "app/assets/execs/fiza-modified.png";
+import bugBountyTalk from "app/assets/events/bug-bounty-workshop-event.jpg";
+import projectManagementCourse from "app/assets/events/project-management-course.jpg";
 
 
 export {
@@ -139,6 +141,8 @@ export {
   digitalArt,
   etizazTalk,
   webSecurity,
+  bugBountyTalk,
+  projectManagementCourse,
   careerWebinar,
   farewell,
   recypher,

@@ -1,10 +1,32 @@
 import React from 'react'
 import Image from 'next/image';
-import { chescrypt, connectTech, cyberFundamentals, cybersiege, cybersiegeWorkshop, cyberstorm, digitalArt, etizazTalk, farewell, futsal, fypseminar, hackathon, humanFactors, iccws, recypher, webSecurity, introductory, cyberstorm2, cispa, welcome } from '../assets';
+import { chescrypt, connectTech, cyberFundamentals, cybersiege, cybersiegeWorkshop, cyberstorm, digitalArt, etizazTalk, farewell, futsal, fypseminar, hackathon, humanFactors, iccws, recypher, webSecurity, introductory, cyberstorm2, cispa, welcome, bugBountyTalk, projectManagementCourse } from '../assets';
 
 const events = [
   {
-    id: 1,
+    id: 22,
+    title:
+      "Project Management Course",
+    imageUrl: projectManagementCourse,
+    date: "Feb 28, 2024",
+    datetime: "2024-02-28",
+    Organizer: {
+      name: "AUCSS, ReCYPHER & Erasmas+",
+    },
+  },
+  {
+    id: 21,
+    title:
+      "The Art of Bug Bounty",
+    imageUrl: bugBountyTalk,
+    date: "Feb 27, 2024",
+    datetime: "2024-02-27",
+    Organizer: {
+      name: "AUCSS",
+    },
+  },
+  {
+    id: 20,
     title: "Cyberstorm 2.0",
     imageUrl: cyberstorm2,
     date: "Dec 06, 2023",
@@ -14,7 +36,7 @@ const events = [
     },
   },
   {
-    id: 2,
+    id: 19,
     title: "Batch 2023 Welcome Party",
     imageUrl: welcome,
     date: "Nov 26, 2023",
@@ -24,7 +46,7 @@ const events = [
     },
   },
   {
-    id: 3,
+    id: 18,
     title: "CISPA Cyber Security Talks",
     imageUrl: cispa,
     date: "Oct 09, 2023",
@@ -34,7 +56,7 @@ const events = [
     },
   },
   {
-    id: 4,
+    id: 17,
     title: "Cybersecurity 101 Introductory Session",
     imageUrl: introductory,
     date: "Sep 25, 2023",
@@ -44,7 +66,7 @@ const events = [
     },
   },
   {
-    id: 5,
+    id: 16,
     title: "Ethical Hacking  VOIP & Wireless Hacking Workshop",
     imageUrl: recypher,
     date: "September 15, 2023",
@@ -54,7 +76,7 @@ const events = [
     },
   },
   {
-    id: 6,
+    id: 15,
     title: "Batch 2018 Farewell Party",
     imageUrl: farewell,
     date: "May 27, 2023",
@@ -64,7 +86,7 @@ const events = [
     },
   },
   {
-    id: 7,
+    id: 14,
     title: "Etizaz Mohsin Tech Talk",
     imageUrl: etizazTalk,
     date: "May 8, 2023",
@@ -74,7 +96,7 @@ const events = [
     },
   },
   {
-    id: 8,
+    id: 13,
     title: "Web Security Training",
     imageUrl: webSecurity,
     date: "May 5, 2023",
@@ -84,7 +106,7 @@ const events = [
     },
   },
   {
-    id: 9,
+    id: 12,
     title: "Digital Art Competition",
     imageUrl: digitalArt,
     date: "Mar 21, 2023",
@@ -94,7 +116,7 @@ const events = [
     },
   },
   {
-    id: 10,
+    id: 11,
     title: "Futsal Matches",
     imageUrl: futsal,
     date: "Mar 20, 2023",
@@ -104,7 +126,7 @@ const events = [
     },
   },
   {
-    id: 11,
+    id: 10,
     title: "CyberStorm",
     imageUrl: cyberstorm,
     date: "Mar 17, 2023",
@@ -114,7 +136,7 @@ const events = [
     },
   },
   {
-    id: 12,
+    id: 9,
     title: "Cyber Fundamentals",
     imageUrl: cyberFundamentals,
     date: "Mar 16, 2023",
@@ -124,7 +146,7 @@ const events = [
     },
   },
   {
-    id: 13,
+    id: 8,
     title: "Connect Tech",
     imageUrl: connectTech,
     date: "Mar 10, 2023",
@@ -134,7 +156,7 @@ const events = [
     },
   },
   {
-    id: 14,
+    id: 7,
     title: "Chescrypt",
     imageUrl: chescrypt,
     date: "Mar 03, 2023",
@@ -144,7 +166,7 @@ const events = [
     },
   },
   {
-    id: 15,
+    id: 6,
     title: "CyberSiege",
     imageUrl: cybersiege,
     date: "Feb 25, 2023",
@@ -154,7 +176,7 @@ const events = [
     },
   },
   {
-    id: 16,
+    id: 5,
     title: "CyberSiege Workshop",
     imageUrl: cybersiegeWorkshop,
     date: "Feb 24, 2023",
@@ -164,7 +186,7 @@ const events = [
     },
   },
   {
-    id: 17,
+    id: 4,
     title: "FYP Seminar",
     imageUrl: fypseminar,
     date: "Feb 8, 2023",
@@ -174,7 +196,7 @@ const events = [
     },
   },
   {
-    id: 18,
+    id: 3,
     title:
       "International Conference on Cyber Warfare and Security (ICCWS) 2022",
     imageUrl: iccws,
@@ -185,7 +207,7 @@ const events = [
     },
   },
   {
-    id: 19,
+    id: 2,
     title: "Hackathon Training",
     imageUrl: hackathon,
     date: "Oct 1, 2022",
@@ -195,7 +217,7 @@ const events = [
     },
   },
   {
-    id: 20,
+    id: 1,
     title:
       "International Conference on Human Factors in Cybersecurity (HFCS) 2022",
     imageUrl: humanFactors,
