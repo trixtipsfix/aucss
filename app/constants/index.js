@@ -16,6 +16,10 @@ export const navLinks = [
     title: "EVENTS",
   },
   {
+    id: "/#airange",
+    title: "AIRANGE",
+  },
+  {
     id: "/#contact",
     title: "CONTACT US",
   },

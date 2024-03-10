@@ -67,6 +67,9 @@ import recypher from "app/assets/events/recypher-workshop-event.png";
 import contactlogo from "app/assets/inky-safety-1.png";
 import introductory from "app/assets/events/introductory-event.jpeg";
 import cyberstorm2 from "app/assets/events/cyberstorm-2-event.jpeg";
+import cybHer from "app/assets/events/cybHer.png";
+import osint101 from "app/assets/events/osint_101.png";
+import blueHorizon from "app/assets/events/blue_horizon.png";
 import cispa from "app/assets/events/cispa-2023.jpeg";
 import welcome from "app/assets/events/welcome-event.jpeg";
 import khawaja from "app/assets/execs/sir_khawaja.jpg";
@@ -149,6 +152,9 @@ export {
   contactlogo,
   introductory,
   cyberstorm2,
+  cybHer,
+  osint101,
+  blueHorizon,
   cispa,
   welcome,
   khawaja,

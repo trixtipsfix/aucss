@@ -23,8 +23,8 @@ const clubs = [
   },
   {
     name: "CTF Club",
-    leadName: "Lead: Faizan Arshad",
-    coLeadName: "Co-Lead: Syed Anas",
+    leadName: "CTF QA Lead: Faizan Arshad",
+    coLeadName: "CTF Back-End Lead: Rehan Faisal",
     imageUrl: ctf_team,
   },
   {

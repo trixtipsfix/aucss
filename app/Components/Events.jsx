@@ -1,8 +1,41 @@
 import React from 'react'
 import Image from 'next/image';
-import { chescrypt, connectTech, cyberFundamentals, cybersiege, cybersiegeWorkshop, cyberstorm, digitalArt, etizazTalk, farewell, futsal, fypseminar, hackathon, humanFactors, iccws, recypher, webSecurity, introductory, cyberstorm2, cispa, welcome, bugBountyTalk, projectManagementCourse } from '../assets';
+import { chescrypt, connectTech, cyberFundamentals, cybersiege, cybersiegeWorkshop, cyberstorm, digitalArt, etizazTalk, farewell, futsal, fypseminar, hackathon, humanFactors, iccws, recypher, webSecurity, introductory, cyberstorm2, cispa, welcome, bugBountyTalk, projectManagementCourse, cybHer, osint101, blueHorizon} from '../assets';
 
 const events = [
+  {
+    id: 25,
+    title:
+      "Blue Horizon",
+    imageUrl: blueHorizon,
+    date: "March 07, 2024",
+    datetime: "2024-03-07",
+    Organizer: {
+      name: "AUCSS",
+    },
+  },
+  {
+    id: 24,
+    title:
+      "OSINT-101 Workshop",
+    imageUrl: osint101,
+    date: "March 07, 2024",
+    datetime: "2024-03-07",
+    Organizer: {
+      name: "AUCSS & AU Cyber Skills Club",
+    },
+  },
+  {
+    id: 23,
+    title:
+      "CybHer Sec",
+    imageUrl: cybHer,
+    date: "March 06, 2024",
+    datetime: "2024-03-06",
+    Organizer: {
+      name: "AUCSS & AU Women Cyber Club",
+    },
+  },
   {
     id: 22,
     title:

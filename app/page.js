@@ -11,8 +11,8 @@ import Teams from './Components/Teams';
 import Events from './Components/Events';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
-import Advisors from './Components/advisors';
-
+import Advisors from './Components/Advisors';
+import Airange from './Components/Airange';
 
 export default function Home() {
   return (
@@ -26,6 +26,7 @@ export default function Home() {
       <Executives />
       <Teams />
       <Clubs />
+      <Airange />
       <Cluster />
       <Events />
       <Contact />
