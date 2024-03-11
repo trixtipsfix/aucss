@@ -1,10 +1,10 @@
 import React from 'react'
 import Image from 'next/image';
-import { chescrypt, connectTech, cyberFundamentals, cybersiege, cybersiegeWorkshop, cyberstorm, digitalArt, etizazTalk, farewell, futsal, fypseminar, hackathon, humanFactors, iccws, recypher, webSecurity, introductory, cyberstorm2, cispa, welcome, bugBountyTalk, projectManagementCourse, cybHer, osint101, blueHorizon} from '../assets';
+import { chescrypt, connectTech, cyberFundamentals, cybersiege, cybersiegeWorkshop, cyberstorm, digitalArt, etizazTalk, farewell, futsal, fypseminar, hackathon, humanFactors, iccws, recypher, webSecurity, introductory, cyberstorm2, cispa, welcome, bugBountyTalk, projectManagementCourse, cybHer, osint101, blueHorizon, crackingCode} from '../assets';
 
 const events = [
   {
-    id: 25,
+    id: 26,
     title:
       "Blue Horizon",
     imageUrl: blueHorizon,
@@ -15,7 +15,7 @@ const events = [
     },
   },
   {
-    id: 24,
+    id: 25,
     title:
       "OSINT-101 Workshop",
     imageUrl: osint101,
@@ -26,7 +26,7 @@ const events = [
     },
   },
   {
-    id: 23,
+    id: 24,
     title:
       "CybHer Sec",
     imageUrl: cybHer,
@@ -34,6 +34,17 @@ const events = [
     datetime: "2024-03-06",
     Organizer: {
       name: "AUCSS & AU Women Cyber Club",
+    },
+  },
+  {
+    id: 23,
+    title:
+      "Cracking the Code",
+    imageUrl: crackingCode,
+    date: "March 04, 2024",
+    datetime: "2024-03-04",
+    Organizer: {
+      name: "AUCSS",
     },
   },
   {
