@@ -1,10 +1,10 @@
 import React from 'react'
 import Image from 'next/image';
-import { chescrypt, connectTech, cyberFundamentals, cybersiege, cybersiegeWorkshop, cyberstorm, digitalArt, etizazTalk, farewell, futsal, fypseminar, hackathon, humanFactors, iccws, recypher, webSecurity, introductory, cyberstorm2, cispa, welcome, bugBountyTalk, projectManagementCourse, cybHer, osint101, blueHorizon, crackingCode} from '../assets';
+import { chescrypt, connectTech, cyberFundamentals, cybersiege, cybersiegeWorkshop, cyberstorm, digitalArt, etizazTalk, farewell, futsal, fypseminar, hackathon, humanFactors, iccws, recypher, webSecurity, introductory, cyberstorm2, cispa, welcome, bugBountyTalk, projectManagementCourse, cybHer, osint101, blueHorizon, crackingCode, scavangerHunt} from '../assets';
 
 const events = [
   {
-    id: 26,
+    id: 27,
     title:
       "Blue Horizon",
     imageUrl: blueHorizon,
@@ -15,7 +15,7 @@ const events = [
     },
   },
   {
-    id: 25,
+    id: 26,
     title:
       "OSINT-101 Workshop",
     imageUrl: osint101,
@@ -26,7 +26,7 @@ const events = [
     },
   },
   {
-    id: 24,
+    id: 25,
     title:
       "CybHer Sec",
     imageUrl: cybHer,
@@ -37,7 +37,7 @@ const events = [
     },
   },
   {
-    id: 23,
+    id: 24,
     title:
       "Cracking the Code",
     imageUrl: crackingCode,
@@ -48,7 +48,7 @@ const events = [
     },
   },
   {
-    id: 22,
+    id: 23,
     title:
       "Project Management Course",
     imageUrl: projectManagementCourse,
@@ -59,7 +59,7 @@ const events = [
     },
   },
   {
-    id: 21,
+    id: 22,
     title:
       "The Art of Bug Bounty",
     imageUrl: bugBountyTalk,
@@ -67,6 +67,17 @@ const events = [
     datetime: "2024-02-27",
     Organizer: {
       name: "AUCSS",
+    },
+  },
+  {
+    id: 21,
+    title:
+      "Scavanger Hunt",
+    imageUrl: scavangerHunt,
+    date: "February 23, 2024",
+    datetime: "2024-02-23",
+    Organizer: {
+      name: "AUCSS & AU Skills Club",
     },
   },
   {

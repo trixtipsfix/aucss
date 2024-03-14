@@ -67,6 +67,7 @@ import recypher from "app/assets/events/recypher-workshop-event.png";
 import contactlogo from "app/assets/inky-safety-1.png";
 import introductory from "app/assets/events/introductory-event.jpeg";
 import cyberstorm2 from "app/assets/events/cyberstorm-2-event.jpeg";
+import scavangerHunt from "app/assets/events/scavanger_hunt.jpg";
 import crackingCode from "app/assets/events/cracking_the_code.jpg";
 import cybHer from "app/assets/events/cybHer.png";
 import osint101 from "app/assets/events/osint_101.png";
@@ -153,6 +154,7 @@ export {
   contactlogo,
   introductory,
   cyberstorm2,
+  scavangerHunt,
   crackingCode,
   cybHer,
   osint101,
